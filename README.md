@@ -60,11 +60,3 @@ It’s designed for both learners and tutors — allowing users to register, exp
 
 ## 🗂️ Folder Structure
 
-├── profile.php # User profile page
-├── register.php # New user registration
-├── search_course.php # Search courses
-├── search_tutor.php # Search tutors
-├── teachers.php # Tutor listing
-├── tutor_profile.php # Individual tutor profile
-├── update.php # Update user or course details
-└── watch_video.php # Video player and comments section
